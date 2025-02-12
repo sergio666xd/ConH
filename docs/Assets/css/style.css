@@ -19,7 +19,7 @@ img {
     position: relative;
     margin: 0 auto;
     width: max-content;
-    height: 30vh;
+    height: max-content;
     text-align: center;
     justify-content: center;
 }
