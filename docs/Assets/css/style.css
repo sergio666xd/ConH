@@ -18,6 +18,7 @@ img {
     border:  SOLID 1px black;
     position: relative;
     margin: 0 auto;
+    padding: 4rem;
     width: max-content;
     height: max-content;
     text-align: center;
