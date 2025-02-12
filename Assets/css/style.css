@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 1s ease-in-out  ;
+}
+
+img {
+    display: none;
+}
+
+#mainOpen {
+    width: 100%;
+    height: 100%;
+}
+
+#open {
+    border:  SOLID 1px black;
+    position: relative;
+    margin: 0 auto;
+    width: max-content;
+    height: 30vh;
+    text-align: center;
+    justify-content: center;
+}
